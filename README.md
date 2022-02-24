@@ -21,6 +21,8 @@ Usage of Books API to create an Graql API with Apollo Server. MERN stack is impl
 
 # Snapshot
 
+![image](https://user-images.githubusercontent.com/88944710/155431891-75390b9e-fe72-43d8-b371-c56cc7fd4d89.png)
+
 
 
 
@@ -47,7 +49,7 @@ Usage of Books API to create an Graql API with Apollo Server. MERN stack is impl
 # Heroku
 
 
-
+https://noahdpsmith.github.io/Lets-partay/
 
 # License
 none
